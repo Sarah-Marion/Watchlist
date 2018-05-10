@@ -1,0 +1,12 @@
+.my_list{
+    list-style-type: none;
+}
+h3 {
+    text-decoration: underline;
+    font-size: 120%;
+    text-align: center;
+}
+.movie-poster{
+    height: 20px;
+    max-width: 20px;
+}
